@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OH0coUypJdLJmYJixrokX3QdQ4AsDcSxd5VtgDgPh+TBv6KoJb+CZZfhxVN0ecrXUl8PrrZGCW5rH1fc+pHmEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Baihaqi Mustafa\\source\\repos\\ResponsiBlk\\ResponsiBlk\\ResponsiBlk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Baihaqi Mustafa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Baihaqi Mustafa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Baihaqi Mustafa\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
